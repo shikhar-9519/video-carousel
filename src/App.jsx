@@ -1,4 +1,4 @@
-import VerticalCarousel from "./components/verticalCarousel"
+import VerticalCarousel from "./components/VerticalCarousel"
 import { CarouselCard } from "./components/CarouselCard"
 import "./App.css"
 import facebookVideo from "./assets/facebook_video2.mp4"
